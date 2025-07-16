@@ -72,7 +72,62 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-tutorial-monitoring-suhu-kelas-dengan-esp32-dan-blynk",
+        
+          title: 'Tutorial Monitoring Suhu Kelas dengan ESP32 dan Blynk <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://skinnyboys.medium.com/tutorial-monitoring-suhu-kelas-dengan-esp32-dan-blynk-6b3348526e97?source=rss-431647268d72------2", "_blank");
+          
+        },
+      },{id: "post-pir-sensor-hc-sr501-with-servo",
+        
+          title: 'PIR Sensor HC-SR501 With Servo <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://skinnyboys.medium.com/pir-sensor-hc-sr501-with-servo-2aeeac69ea9f?source=rss-431647268d72------2", "_blank");
+          
+        },
+      },{id: "post-control-motor-servo-using-mpu6050-sensor",
+        
+          title: 'Control Motor Servo Using MPU6050 Sensor <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://skinnyboys.medium.com/control-motor-servo-148511d1bf3f?source=rss-431647268d72------2", "_blank");
+          
+        },
+      },{id: "post-cara-menggunakan-sensor-mpu6050-denagn-arduino-dan-menampilkan-ke-lcd",
+        
+          title: 'Cara Menggunakan Sensor MPU6050 denagn Arduino dan Menampilkan ke LCD <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://skinnyboys.medium.com/cara-menggunakan-sensor-mpu6050-denagn-arduino-00d5dc1727d2?source=rss-431647268d72------2", "_blank");
+          
+        },
+      },{id: "post-mengukur-suhu-dan-kelembaban-menggunakan-arduino-uno-dan-dht-11",
+        
+          title: 'Mengukur Suhu dan Kelembaban Menggunakan Arduino UNO dan DHT-11 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://skinnyboys.medium.com/mengukur-suhu-dan-kelembaban-menggunakan-arduino-uno-dan-dht-11-5000b497dffd?source=rss-431647268d72------2", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -81,6 +136,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "post-ultrasonic-sensor-combine-with-led-and-lcd",
+        
+          title: 'Ultrasonic Sensor Combine with LED and LCD <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://skinnyboys.medium.com/ultrasonic-sensor-combine-with-led-and-lcd-6229f512fe16?source=rss-431647268d72------2", "_blank");
+          
+        },
+      },{id: "post-pengukuran-jarak-di-arduino-dengan-sensor-ultrasonik-dan-led",
+        
+          title: 'Pengukuran Jarak di Arduino dengan Sensor Ultrasonik dan Led <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://skinnyboys.medium.com/pengukuran-jarak-di-arduino-dengan-sensor-ultrasonik-dan-led-e6e6fd6ff607?source=rss-431647268d72------2", "_blank");
           
         },
       },{id: "post-a-post-with-image-galleries",
@@ -325,15 +402,37 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
+      },{id: "post-setup-node-js-webserver-and-nginx-as-revers-proxy-and-rate-limit-on-aws",
         
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'Setup Node Js Webserver and Nginx as Revers Proxy and Rate Limit on... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
+            window.open("https://skinnyboys.medium.com/setup-node-js-webserver-and-nginx-as-revers-proxy-and-rate-limit-on-aws-ca69f4424be4?source=rss-431647268d72------2", "_blank");
+          
+        },
+      },{id: "post-two-trends-of-green-engineering-in-environmental",
+        
+          title: 'Two Trends Of Green Engineering in Environmental <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://skinnyboys.medium.com/two-trends-of-green-engineering-in-environmental-e0756d8be7b4?source=rss-431647268d72------2", "_blank");
+          
+        },
+      },{id: "post-green-engineering-trends",
+        
+          title: 'Green Engineering Trends <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://skinnyboys.medium.com/green-engineering-trends-1c096bace410?source=rss-431647268d72------2", "_blank");
           
         },
       },{id: "post-a-post-with-redirect",
